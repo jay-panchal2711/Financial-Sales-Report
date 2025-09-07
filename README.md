@@ -1,3 +1,6 @@
+<img width="822" height="464" alt="Dashboard" src="https://github.com/user-attachments/assets/1642767a-5000-4415-bc04-61af632bd21f" />
+
+
 
 # 📊 Financial Sales Report Dashboard
 
